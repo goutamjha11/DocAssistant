@@ -1,2 +1,2 @@
 # DocAssistant
-## This project is an assistant for question answer module
+## This project is an assistant for language translation
